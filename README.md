@@ -1,2 +1,2 @@
-# potluckplanner
+# potluckplanner-proposal
 solo app project
